@@ -3,6 +3,7 @@ class Cat
     @name = name
   end
 
+  
   # This method is currently covered by a test
   def name
     "#{@name}!!!"
