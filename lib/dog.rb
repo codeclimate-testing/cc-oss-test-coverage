@@ -25,6 +25,9 @@ class Dog
     puts bad "foo"
   end
 
+
+  
+
   def also_untested
     puts bad "foo"
   end
