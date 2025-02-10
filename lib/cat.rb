@@ -8,6 +8,8 @@ class Cat
     "#{@name}!!!"
   end
 
+  
+
   # This method is currently covered by a test
   def speak
     "meow"
