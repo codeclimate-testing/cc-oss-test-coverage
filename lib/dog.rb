@@ -13,6 +13,8 @@ class Dog
     45
   end
 
+
+  
   def bad(baba = baba)
     puts baba
   end
